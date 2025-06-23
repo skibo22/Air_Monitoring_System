@@ -1,4 +1,4 @@
-# Air_Monitoring_System
+# Air-Monitoring-System
 A system that monitors air quality in a room
  🌍 Air Quality Monitoring System
 
