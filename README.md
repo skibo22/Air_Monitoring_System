@@ -4,10 +4,9 @@ A system that monitors air quality in a room
 
 This project is a compact **Air Quality Monitoring System** built using Arduino. It measures temperature, humidity, and gas concentration (air quality) and displays the data in real-time. The system is ideal for indoor or semi-outdoor air monitoring.
 
----
+
  📦 Project Structure
 
----
 
 ## 🔧 Hardware Used
 
@@ -19,7 +18,7 @@ This project is a compact **Air Quality Monitoring System** built using Arduino.
 | OLED Display     | Optional for real-time data output     |
 | Resistors, Wires | Basic supporting electronics           |
 
----
+
 
 ## ⚙️ Software & Tools
 
@@ -28,7 +27,7 @@ This project is a compact **Air Quality Monitoring System** built using Arduino.
 - **SolidWorks** – for mechanical enclosure design
 - **GitHub** – version control and collaboration
 
----
+
 
 ## 🚀 Features
 
@@ -38,6 +37,6 @@ This project is a compact **Air Quality Monitoring System** built using Arduino.
 - 3D printable compact case for the hardware
 - Well-documented circuit and design files
 
----
+
 t
 
