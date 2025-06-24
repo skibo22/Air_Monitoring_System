@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 # Air-Monitoring-System
-=======
+
 # Air_Monitoring_System
-<<<<<<< HEAD
->>>>>>> 88c643c (Initial commit)
+ HEAD 
+ 88c643c (Initial commit)
 A system that monitors air quality in a room
  🌍 Air Quality Monitoring System
 
@@ -45,6 +45,10 @@ This project is a compact **Air Quality Monitoring System** built using Arduino.
 
 t
 
-=======
+
 Be able to monitor quality of air in a room
->>>>>>> d7b4a45 (Initial commit)
+ d7b4a45 (Initial commit)
+
+# Air_Monitoring_System
+Be able to monitor quality of air in a room
+ 7a2be78e625e1bc41144fd37ba67759c4668bfde
